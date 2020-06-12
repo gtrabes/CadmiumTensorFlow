@@ -90,9 +90,9 @@ STOCK PRICE SIMULATOR DEVS model implemented in Cadmium and Keras/TensorFlow
 		
 		trained_model.h5 [deep learning trained model]
 
-/*************/
-/****STEPS****/
-/*************/
+	/*************/
+	/****INSTRUCTION STEPS****/
+	/*************/
 
 	0 - SPS.docx contains the explanation of this model
 
